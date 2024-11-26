@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Dll\Dll\bin\Debug\Dll.exe.config
+C:\Users\user\source\repos\Dll\Dll\bin\Debug\Dll.exe
+C:\Users\user\source\repos\Dll\Dll\bin\Debug\Dll.pdb
+C:\Users\user\source\repos\Dll\Dll\bin\Debug\ClassLibrary1.dll
+C:\Users\user\source\repos\Dll\Dll\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\source\repos\Dll\Dll\obj\Debug\Dll.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Dll\Dll\obj\Debug\Dll.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dll\Dll\obj\Debug\Dll.csproj.Up2Date
+C:\Users\user\source\repos\Dll\Dll\obj\Debug\Dll.exe
+C:\Users\user\source\repos\Dll\Dll\obj\Debug\Dll.pdb
